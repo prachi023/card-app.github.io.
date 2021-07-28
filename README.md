@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+1. Go to root and open shell based command line.
+2. Run `npm install`. This will install all the dependencies.
+3. Run `npm start`. This will run the website at localhost.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -44,3 +50,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Credits
+Built by Prachi Gaur(https://github.com/prachi023).
