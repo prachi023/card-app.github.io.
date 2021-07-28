@@ -38,8 +38,6 @@ export const StyledFooter = styled.div`
 `;
 
 export const StyledConfirmButton = styled.button`
-    // background-color: transparent;
-    // border-color: transparent;
     margin: 25px;
     width: 100px;
     height: 35px;
